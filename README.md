@@ -318,7 +318,7 @@ contact.html
 
 ```
 ## OUTPUT:
-![Screenshot 2024-05-14 084008](https://github.com/aswethaashok/Pharma/assets/149987410/cb682c25-3738-43e7-b4cb-6e90abf14538)
+![image](https://github.com/aswethaashok/Pharma/assets/149987410/0dbb1e11-1258-4765-b13c-f8caf70e24dd)
 
 
 ![Screenshot 2024-05-14 083012](https://github.com/aswethaashok/Pharma/assets/149987410/3b647e0b-b499-4332-b0bc-69b9752a1bb7)
